@@ -1,0 +1,4 @@
+nome_teste,parceiro,status,melhor_grupo,margem,decisao,confianca,significancia,variantes,data_inicio,data_fim,teste_estatistico,p_valor,relatorio,data_registro
+Teste A/B Cashback — Parceiro A,Parceiro A,⚠️ Revisar,Grupo 1,+7.2%,"Não escalar ainda — Grupo 1 lidera, mas com instabilidade detectada na % de cashback; isolar sub-períodos antes de decidir",baixa,Significativo,3,2011-01-01,2011-04-02,Kruskal-Wallis,p<0.001,reports/relatorio_parceiro_a.md,2026-07-15 00:42
+Teste A/B Cashback — Parceiro B,Parceiro B,✅ Escalar,Grupo 1,+7.0%,Escalar Grupo 1 para 100% do tráfego,alta,Significativo,3,2011-05-01,2011-06-30,Kruskal-Wallis,p<0.001,reports/relatorio_parceiro_b.md,2026-07-15 00:42
+Teste A/B Cashback — Parceiro C,Parceiro C,✅ Escalar,Grupo 1,+2.0%,Escalar Grupo 1 para 100% do tráfego,alta,Significativo,2,2011-07-01,2011-08-14,Kruskal-Wallis,p<0.001,reports/relatorio_parceiro_c.md,2026-07-15 00:43
